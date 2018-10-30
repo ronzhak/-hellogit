@@ -3,3 +3,5 @@ Week Plan 29.10.2018 master
 iss53!
 Edit master
 rebase from master to m1
+Edit m1
+rebase from master to m1
