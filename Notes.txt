@@ -1,4 +1,0 @@
-https://evkd.duma-murman.ru отпадывает открытие файлов
-2018-10-16 
-2018-10-30
-: Помогает reset apppool
