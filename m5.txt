@@ -3,3 +3,7 @@ m5.txt
 Notes.txt
 ProfMash.txt
 README.md
+
+
+---------
+m5 reset head
